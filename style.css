@@ -1,0 +1,22 @@
+body {
+    background-color: #282828;
+    background-image: url("https://cutewallpaper.org/21/black-background-gif/Rendering-after-import-and-cleanup-renders-out-of-OT-with-.gif");
+    background-position-y: -375%;
+    background-size: 4000px;
+    background-position-x: 65%;
+    font-family: Verdana;
+}
+html {
+    scroll-behavior: smooth;
+    }
+
+#nav-front {
+    font-family: Verdana;
+}
+
+.navbar {
+    float: right;
+    text-decoration: none;
+}
+
+
